@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for BOLTTrack', 'description': 'Primary container for BOLTTrack implementation: An app to help users perform the Body Oxygen Level Test (BOLT), record their breath-hold time, and track their progress. The app educates users about the BOLT, guides them through the test, and visualizes their results over time.', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
